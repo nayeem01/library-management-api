@@ -1,0 +1,38 @@
+[
+    {
+        "bookName": "Robot Without A Home",
+        "author": "Frederick Egell",
+        "price": 940,
+        "date": "5/15/2020"
+    },
+    {
+        "bookName": "Companion Of The North",
+        "author": "Shea De Hoogh",
+        "price": 410,
+        "date": "5/6/2020"
+    },
+    {
+        "bookName": "Traitor Of The Past",
+        "author": "Alaster Mc Andrew",
+        "price": 180,
+        "date": "2/27/2020"
+    },
+    {
+        "bookName": "Dog Of Tomorrow",
+        "author": "Tildi McInnerny",
+        "price": 170,
+        "date": "3/16/2020"
+    },
+    {
+        "bookName": "Bleeding In The Graveyard",
+        "author": "Tobey Delacoste",
+        "price": 440,
+        "date": "8/27/2020"
+    },
+    {
+        "bookName": "Preparing For My End",
+        "author": "Bevon Palay",
+        "price": 570,
+        "date": "5/18/2020"
+    }
+]

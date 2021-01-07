@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Marketa Rosenfelder",
+        "mobile": "01717379210",
+        "isLibrarian": true,
+        "isDeleted": false
+    },
+    {
+        "name": "Pablo Etoile",
+        "mobile": "01749285805",
+        "isLibrarian": false,
+        "isDeleted": false
+    },
+    {
+        "name": "Imogene Dizlie",
+        "mobile": "01998231777",
+        "isLibrarian": false,
+        "isDeleted": false
+    },
+    {
+        "name": "Bobbie Pearne",
+        "mobile": "01600506640",
+        "isLibrarian": false,
+        "isDeleted": false
+    },
+    {
+        "name": "Reyna Moller",
+        "mobile": "01885969486",
+        "isLibrarian": false,
+        "isDeleted": false
+    },
+    {
+        "name": "Isiahi Plumbe",
+        "mobile": "01663364694",
+        "isLibrarian": false,
+        "isDeleted": false
+    }
+]
