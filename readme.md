@@ -16,3 +16,5 @@
 -   <https://documenter.getpostman.com/view/13354304/TVt184bX>
 -   \_data folder contain dummy data
 -   to import multiple data all at once i used seeder.js
+
+### Docker image added
